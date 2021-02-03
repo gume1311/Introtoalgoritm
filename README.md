@@ -72,6 +72,9 @@ In programming, a constant is a value that cannot be altered / modified during t
 
 one where the operators involved in it are numeric, the result is a number and the operators are arithmetic
 
+### logic
+a type of programming paradigm within the declarative programming paradigm.
+
 como generar listas
 * elemento
 * otro elemento
