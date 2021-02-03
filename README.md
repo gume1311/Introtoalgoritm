@@ -46,7 +46,14 @@ For
 
 ![alt text](https://github.com/gume1311/Introtoalgoritm/blob/main/Reptitivas.png)
 
+##  types of computational data.
 
+### Numerical data
+Numeric data is any data where the data points are exact numbers. Statisticians can also call numerical data, quantitative data.
+
+
+### Categorical data
+Los datos categóricos representan características,
 
 como generar listas
 * elemento
