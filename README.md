@@ -46,6 +46,8 @@ For
 
 (https://github.com/gume1311/Introtoalgoritm/blob/main/Reptitivas.png)
 
+![alt text](http://url/to/img.png)
+
 como generar listas
 * elemento
 * otro elemento
