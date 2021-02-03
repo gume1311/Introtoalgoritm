@@ -25,7 +25,7 @@ function test()
 }​​​​​​
 ```
  
-SIMPLE SELECTIVE STRUCTURE (IF - END IF)
+## SIMPLE SELECTIVE STRUCTURE (IF - END IF)
  
  La estructura de selección simple evalúa una condición, si ésta es verdadera ejecuta una o varias instrucciones, si es falsa continua la ejecución normal del programa.
  
@@ -44,8 +44,7 @@ While
 Do-while
 For
 
-http://www.utn.edu.ec/reduca/programacion/estructuras/Reptitivas.png
-
+JLabel1.setIcon(new ImageIcon(http://www.utn.edu.ec/reduca/programacion/estructuras/Reptitivas.png));
 
 como generar listas
 * elemento
