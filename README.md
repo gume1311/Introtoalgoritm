@@ -44,7 +44,7 @@ While
 Do-while
 For
 
-JLabel1.setIcon(new ImageIcon(http://www.utn.edu.ec/reduca/programacion/estructuras/Reptitivas.png));
+JLabel1.setIcon(new ImageIcon(Reptitivas.png):
 
 como generar listas
 * elemento
