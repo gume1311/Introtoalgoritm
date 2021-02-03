@@ -1,7 +1,6 @@
 # Introtoalgoritm
-classreport
  
-##concepts and characteristics of algorithms
+concepts and characteristics of algorithms
 texto normal
  Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. 
  
@@ -15,7 +14,8 @@ Finiteness − Algorithms must terminate after a finite number of steps.
 
 Feasibility − Should be feasible with the available resources.
 
-Independent − An algorithm should have step-by-step directions, which should be independent of any programming code.
+Independent − An algorithm should have step-by-step directions, which should be independent of any programming code
+
 
     a piece of code
 ```javascript
@@ -25,8 +25,19 @@ function test()
 }​​​​​​
 ```
  
-### encabezado 3
+SIMPLE SELECTIVE STRUCTURE (IF - END IF)
  
+ La estructura de selección simple evalúa una condición, si ésta es verdadera ejecuta una o varias instrucciones, si es falsa continua la ejecución normal del programa.
+ 
+  a piece of code
+```javascript
+ {​​​​​​ 
+ If Precio < CreditoDisponible Then
+    Cargo = "Aprobado" 
+    CreditoDisponible = CreditoDisponible - Precio
+End If
+}​​​​​​
+```
 como generar listas
 * elemento
 * otro elemento
