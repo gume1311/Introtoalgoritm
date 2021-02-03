@@ -38,6 +38,15 @@ SIMPLE SELECTIVE STRUCTURE (IF - END IF)
 End If
 }​​​​​​
 ```
+
+## Repetitive structures
+While
+Do-while
+For
+
+http://www.utn.edu.ec/reduca/programacion/estructuras/Reptitivas.png
+
+
 como generar listas
 * elemento
 * otro elemento
