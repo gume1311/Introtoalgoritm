@@ -44,7 +44,7 @@ While
 Do-while
 For
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/gume1311/Introtoalgoritm/blob/main/Reptitivas.png)
 
 
 
