@@ -1,7 +1,7 @@
 # Introtoalgoritm
  
-concepts and characteristics of algorithms
-texto normal
+# concepts and characteristics of algorithms
+
  Algorithm is a step-by-step procedure, which defines a set of instructions to be executed in a certain order to get the desired output. 
  
  Unambiguous − Algorithm should be clear and unambiguous. Each of its steps (or phases), and their inputs/outputs should be clear and must lead to only one meaning.
@@ -53,7 +53,24 @@ Numeric data is any data where the data points are exact numbers. Statisticians 
 
 
 ### Categorical data
-Los datos categóricos representan características,
+Categorical data represent characteristics.
+
+### Character string.
+
+It is an ordered sequence of arbitrary length (although finite) of elements that belong to a certain formal language or alphabet; analogous to a phrase or a sentence.
+
+### variables
+In programming, a variable is made up of a space in the storage system and a symbolic name that is associated with that space.
+
+### constant
+In programming, a constant is a value that cannot be altered / modified during the execution of a program, it can only be read.
+
+
+# computational operations
+
+## Arithmetic
+
+one where the operators involved in it are numeric, the result is a number and the operators are arithmetic
 
 como generar listas
 * elemento
