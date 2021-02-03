@@ -57,7 +57,7 @@ Categorical data represent characteristics.
 
 ### Character string.
 
-![alt text](https://github.com/gume1311/Introtoalgoritm/blob/main/aritmeticas.jpg)
+![alt text](https://github.com/gume1311/Introtoalgoritm/blob/main/aritmeticas.png)
 
 It is an ordered sequence of arbitrary length (although finite) of elements that belong to a certain formal language or alphabet; analogous to a phrase or a sentence.
 
