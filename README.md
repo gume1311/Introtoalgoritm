@@ -79,7 +79,9 @@ one where the operators involved in it are numeric, the result is a number and t
 
 ### logic
 a type of programming paradigm within the declarative programming paradigm.
+
 ![alt text](https://github.com/gume1311/Introtoalgoritm/blob/main/logica.jpg)
+
 como generar listas
 * elemento
 * otro elemento
