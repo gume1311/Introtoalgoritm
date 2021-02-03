@@ -56,14 +56,18 @@ Numeric data is any data where the data points are exact numbers. Statisticians 
 Categorical data represent characteristics.
 
 ### Character string.
+
 ![alt text](https://github.com/gume1311/Introtoalgoritm/blob/main/aritmeticas.jpg)
+
 It is an ordered sequence of arbitrary length (although finite) of elements that belong to a certain formal language or alphabet; analogous to a phrase or a sentence.
 
 ### variables
 In programming, a variable is made up of a space in the storage system and a symbolic name that is associated with that space.
+ 
  ![alt text](https://github.com/gume1311/Introtoalgoritm/blob/main/variable.png)
 ### constant
 In programming, a constant is a value that cannot be altered / modified during the execution of a program, it can only be read.
+
 ![alt text](https://github.com/gume1311/Introtoalgoritm/blob/main/constante.jpg)
 
 
